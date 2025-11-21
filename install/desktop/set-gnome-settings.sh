@@ -10,4 +10,4 @@ gsettings set org.gnome.desktop.interface monospace-font-name 'CaskaydiaMono Ner
 gsettings set org.gnome.desktop.calendar show-weekdate true
 
 # Turn off ambient sensors for setting screen brightness (they rarely work well!)
-gsettings set org.gnome.settings-daemon.plugins.power ambient-enabled false
+#gsettings set org.gnome.settings-daemon.plugins.power ambient-enabled false
